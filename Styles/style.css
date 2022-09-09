@@ -33,3 +33,7 @@ i.fa-solid.fa-user-lock.fa-2xl:hover {
     border-radius: 10px;
     margin-top: 50px;
 }
+
+p {
+    text-align: center;
+  }
