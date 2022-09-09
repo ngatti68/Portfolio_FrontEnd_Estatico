@@ -1,0 +1,35 @@
+.list-group.list-group-horizontal {
+    --bs-list-group-bg: transparent;
+    --bs-list-group-border-color: transparent;
+}
+
+i.fa-brands.fa-facebook.fa-2xl,
+i.fa-brands.fa-instagram.fa-2xl,
+i.fa-brands.fa-twitter.fa-2xl,
+i.fa-brands.fa-linkedin.fa-2xl,
+i.fa-solid.fa-user-lock.fa-2xl {
+    color:#ffffff;
+}
+
+i.fa-brands.fa-facebook.fa-2xl:hover {
+    color:#0000ff;
+}
+
+i.fa-brands.fa-linkedin.fa-2xl:hover {
+    color:#0077b5;
+}
+
+i.fa-brands.fa-instagram.fa-2xl:hover {
+    color:#a52a5d;
+}
+
+i.fa-solid.fa-user-lock.fa-2xl:hover {
+    color:#ffff00;
+}
+
+#acerca_de {
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-top: 50px;
+}
