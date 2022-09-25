@@ -44,4 +44,75 @@ p {
 .rounded-circle {
     position: relative;
     bottom: 150px;
+    border: 2px solid #000000;
+}
+
+#mi_nombre {
+    margin-top: -75px;
+}
+
+#Experiencia {
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-top: 50px;
+    background-color: #f0e68c;
+    font-size: 20px;
+}
+
+#logo_empresa {
+    margin-top: 75px;
+}
+
+#empresa {
+    margin-top: 75px;    
+}
+
+#editar_empresa {
+    margin-top: 75px;
+}
+
+#Educacion {
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-top: 50px;
+    background-color: #f0e68c;
+    font-size: 20px;
+}
+
+#logo_instituto {
+    margin-top: 75px;
+}
+
+#instituto {
+    margin-top: 75px;    
+}
+
+#editar_instituto {
+    margin-top: 75px;
+}
+
+#HardSoft_Skills {
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-top: 50px;
+    background-color: #f0e68c;
+    font-size: 20px;
+}
+
+#Proyectos {
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-top: 50px;
+    background-color: #f0e68c;
+    font-size: 20px;
+}
+ 
+.bg-light.text-center.text-lg-start {
+    padding: 40px;
+    border-left: 0;
+    border-right: 0;
 }
